@@ -6,7 +6,6 @@
 <a href="https://github.com/Azhika/therma-heat-strain-dashboard">Therma</a>
 </p>
 <p align="center">
-  <img src="./assets/a2hika.svg" width="850">
   <br><br>
   <img src="./assets/a2hika-terminal.svg" width="850">
 </p>
