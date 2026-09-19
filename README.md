@@ -5,7 +5,6 @@
 <a href="https://github.com/Azhika/RISCV_32I_Pipelined_Core">RISC-V core</a> &nbsp; / &nbsp;
 <a href="https://github.com/Azhika/therma-heat-strain-dashboard">Therma</a>
 </p>
-```html
 <p align="center">
   <img src="./assets/a2hika.svg" width="850">
   <br><br>
