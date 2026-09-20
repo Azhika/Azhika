@@ -1,5 +1,7 @@
 ![A2HIKA A — digital design, RISC-V, and connected systems](assets/a2hika-terminal.svg)
 
+![A2HIKA A ASCII artwork](assets/a2hikaa.png)
+
 <p align="center">
 <a href="https://github.com/Azhika?tab=repositories">Explore repositories</a> &nbsp; / &nbsp;
 <a href="https://github.com/Azhika/RISCV_32I_Pipelined_Core">RISC-V core</a> &nbsp; / &nbsp;
@@ -12,7 +14,12 @@
 
 
 
+
+
+
+
 ### Selected work
+
 
 | Project | Focus | Tools |
 | :--- | :--- | :--- |
@@ -21,4 +28,6 @@
 | **[HDLBits solutions](https://github.com/Azhika/HDLBits-Verilog-solutions)** | Digital logic practice | Verilog |
 | **[Therma](https://github.com/Azhika/therma-heat-strain-dashboard)** | Heat-strain dashboard with anomaly inference and telemetry support | Next.js · TypeScript · FastAPI |
 
+
 <sub>A2HIKA A / Learning through implementation, simulation, and iteration.</sub>
+
