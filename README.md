@@ -1,6 +1,5 @@
 ![A2HIKA A — learning processor architecture, RISC-V, and digital chip design](assets/a2hika-terminal.svg)
-
-![A2HIKA A ASCII artwork](assets/a2hikaa.png)
+![A2HIKA A ASCII artwork](assets/a2hikaa-purple.png)
 
 <p align="center">
 <a href="https://github.com/Azhika?tab=repositories">Explore repositories</a> &nbsp; / &nbsp;
